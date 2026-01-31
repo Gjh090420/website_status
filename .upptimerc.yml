@@ -1,16 +1,59 @@
-owner: Gjh090420 
-repo: website_status 
+# Upptime 配置文件 - 深度自定义 & 链路监控版
+owner: Gjh090420
+repo: website_status
 
+# 监控站点配置：涵盖主站、功能页、API及边缘Worker
 sites:
-  - name: Foync 主站
+  - name: "🌐 Foync 主站入口"
     url: https://foync.xx.kg
-  - name: 9420 节点功能页
-    url: https://foync.xx.kg/9420
-  - name: 个人工具箱
+    check-status-codes: [200]
+    
+  - name: "🛠️ 个人工具箱"
     url: https://foync.xx.kg/tool
+    
+  - name: "📈 数据看板"
+    url: https://foync.xx.kg/board
+    
+  - name: "🔗 短链转发 Worker"
+    url: https://s.foync.xx.kg
+    # 针对仅做转发的Worker，200或302均视为正常
+    expectedStatusCode: 200
 
+  - name: "🌦️ 天气数据接口 (wttr.in)"
+    url: https://wttr.in/Shanghai?format=3
+
+  - name: "🎨 创意空间 (互动画板)"
+    url: https://foync.xx.kg/fun
+
+# 状态页自定义设置 (Theming)
 status-website:
   cname: status.foync.xx.kg
   baseUrl: /
+  name: "Foync 运维监控中心"
+  introHtml: "此处展示 Foync 数字帝国各节点的实时运行状态。<b>所有系统正在监控中。</b>"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Foync 服务状态监控中心
+  # 导航栏配置：增加返回主站的链接
+  navbar:
+    - title: 监控状态
+      href: /
+    - title: 返回主站
+      href: https://foync.xx.kg
+  # 深度视觉优化 CSS
+  customCSS: |
+    body { font-family: 'Inter', -apple-system, sans-serif; background-color: #030712 !important; color: #e2e8f0; }
+    .container { max-width: 1000px !important; padding-top: 3rem; }
+    h1 { color: #3b82f6 !important; font-weight: 800 !important; letter-spacing: -0.05em; }
+    .card { background: #111827 !important; border: 1px solid #1f2937 !important; border-radius: 1.5rem !important; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4); }
+    .status-up { color: #10b981 !important; font-weight: bold; }
+    .status-down { color: #ef4444 !important; font-weight: bold; }
+    footer { opacity: 0.6; font-size: 0.8rem; }
+
+# 自动化任务时间表 (确保生成 SLA 年度在线率图表)
+workflow-schedule:
+  graphs: "0 0 * * *"       # 每天凌晨生成性能趋势图
+  staticSite: "0 1 * * *"   # 每天凌晨更新静态网页内容
+  summary: "0 2 * * *"      # 每天凌晨计算 SLA 在线率摘要
+  uptime: "*/5 * * * *"     # 每 5 分钟检查一次站点是否在线
+
+# 样式配置
+theme: dark

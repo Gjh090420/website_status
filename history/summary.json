@@ -10,13 +10,14 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 4217,
-    "timeDay": 4217,
-    "timeWeek": 4217,
-    "timeMonth": 4217,
-    "timeYear": 4217,
+    "time": 2891,
+    "timeDay": 2891,
+    "timeWeek": 2891,
+    "timeMonth": 2891,
+    "timeYear": 2891,
     "dailyMinutesDown": {
-      "2026-01-31": 365
+      "2026-02-01": 1,
+      "2026-01-31": 551
     }
   },
   {
@@ -30,13 +31,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "time": 15,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 15,
+    "timeYear": 15,
     "dailyMinutesDown": {
-      "2026-01-31": 1105
+      "2026-01-31": 1663,
+      "2026-02-01": 3
     }
   },
   {
@@ -50,13 +52,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "time": 15,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 15,
+    "timeYear": 15,
     "dailyMinutesDown": {
-      "2026-01-31": 1105
+      "2026-02-01": 3,
+      "2026-01-31": 1663
     }
   },
   {
@@ -70,13 +73,14 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 5057,
-    "timeDay": 5057,
-    "timeWeek": 5057,
-    "timeMonth": 5057,
-    "timeYear": 5057,
+    "time": 2652,
+    "timeDay": 2652,
+    "timeWeek": 2652,
+    "timeMonth": 2652,
+    "timeYear": 2652,
     "dailyMinutesDown": {
-      "2026-01-31": 357
+      "2026-02-01": 1,
+      "2026-01-31": 543
     }
   },
   {
@@ -84,18 +88,19 @@
     "url": "https://wttr.in/Shanghai?format=3",
     "icon": "https://icons.duckduckgo.com/ip3/wttr.in.ico",
     "slug": "wttr-in",
-    "status": "up",
-    "uptime": "95.06%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "95.06%",
-    "uptimeYear": "95.06%",
-    "time": 6048,
-    "timeDay": 6048,
-    "timeWeek": 6048,
-    "timeMonth": 6048,
-    "timeYear": 6048,
+    "status": "down",
+    "uptime": "96.75%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "96.75%",
+    "time": 4192,
+    "timeDay": 4192,
+    "timeWeek": 4192,
+    "timeMonth": 4192,
+    "timeYear": 4192,
     "dailyMinutesDown": {
+      "2026-02-01": 0,
       "2026-01-31": 18
     }
   },
@@ -110,13 +115,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "time": 15,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 15,
+    "timeYear": 15,
     "dailyMinutesDown": {
-      "2026-01-31": 1105
+      "2026-02-01": 3,
+      "2026-01-31": 1663
     }
   }
 ]

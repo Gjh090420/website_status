@@ -16,7 +16,7 @@
     "timeMonth": 2636,
     "timeYear": 2636,
     "dailyMinutesDown": {
-      "2026-02-03": 483,
+      "2026-02-03": 533,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 551
@@ -39,7 +39,7 @@
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2026-02-03": 1449,
+      "2026-02-03": 1650,
       "2026-02-02": 4597,
       "2026-02-01": 4573,
       "2026-01-31": 1663
@@ -62,7 +62,7 @@
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2026-02-03": 1449,
+      "2026-02-03": 1650,
       "2026-02-02": 4597,
       "2026-02-01": 4573,
       "2026-01-31": 1663
@@ -85,7 +85,7 @@
     "timeMonth": 3454,
     "timeYear": 3454,
     "dailyMinutesDown": {
-      "2026-02-03": 483,
+      "2026-02-03": 533,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 543
@@ -96,19 +96,19 @@
     "url": "https://wttr.in/Shanghai?format=3",
     "icon": "https://icons.duckduckgo.com/ip3/wttr.in.ico",
     "slug": "wttr-in",
-    "status": "down",
-    "uptime": "85.99%",
-    "uptimeDay": "80.78%",
-    "uptimeWeek": "85.99%",
-    "uptimeMonth": "85.99%",
-    "uptimeYear": "85.99%",
-    "time": 8871,
-    "timeDay": 13728,
-    "timeWeek": 8871,
-    "timeMonth": 8871,
-    "timeYear": 8871,
+    "status": "up",
+    "uptime": "84.89%",
+    "uptimeDay": "77.28%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "84.89%",
+    "uptimeYear": "84.89%",
+    "time": 8330,
+    "timeDay": 11568,
+    "timeWeek": 8330,
+    "timeMonth": 8330,
+    "timeYear": 8330,
     "dailyMinutesDown": {
-      "2026-02-03": 0,
+      "2026-02-03": 51,
       "2026-02-02": 277,
       "2026-02-01": 253,
       "2026-01-31": 18
@@ -131,7 +131,7 @@
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2026-02-03": 1449,
+      "2026-02-03": 1650,
       "2026-02-02": 4597,
       "2026-02-01": 4573,
       "2026-01-31": 1663

@@ -16,7 +16,7 @@
     "timeMonth": 2569,
     "timeYear": 2578,
     "dailyMinutesDown": {
-      "2026-03-08": 419,
+      "2026-03-08": 537,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/foync.xx.kg.ico",
     "slug": "",
     "status": "down",
-    "uptime": "79.00%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "52.19%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "79.00%",
+    "uptime": "79.13%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "75.46%",
+    "uptimeYear": "79.13%",
     "time": 17,
     "timeDay": 9,
     "timeWeek": 12,
@@ -98,7 +98,7 @@
       "2026-02-11": 572,
       "2026-02-10": 138,
       "2026-02-09": 76,
-      "2026-02-08": 77
+      "2026-02-08": 35
     }
   },
   {
@@ -107,11 +107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/foync.xx.kg.ico",
     "slug": "",
     "status": "down",
-    "uptime": "79.00%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "52.19%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "79.00%",
+    "uptime": "79.13%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "75.46%",
+    "uptimeYear": "79.13%",
     "time": 17,
     "timeDay": 9,
     "timeWeek": 12,
@@ -144,7 +144,7 @@
       "2026-02-11": 572,
       "2026-02-10": 138,
       "2026-02-09": 76,
-      "2026-02-08": 77
+      "2026-02-08": 35
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 3008,
     "timeYear": 2986,
     "dailyMinutesDown": {
-      "2026-03-08": 419,
+      "2026-03-08": 538,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -208,15 +208,15 @@
     "url": "https://wttr.in/Shanghai?format=3",
     "icon": "https://icons.duckduckgo.com/ip3/wttr.in.ico",
     "slug": "wttr-in",
-    "status": "up",
-    "uptime": "78.99%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "52.19%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "78.99%",
+    "status": "down",
+    "uptime": "79.12%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "75.46%",
+    "uptimeYear": "79.12%",
     "time": 9830,
-    "timeDay": 9685,
-    "timeWeek": 9956,
+    "timeDay": 9362,
+    "timeWeek": 10018,
     "timeMonth": 10210,
     "timeYear": 9830,
     "dailyMinutesDown": {
@@ -246,7 +246,7 @@
       "2026-02-11": 572,
       "2026-02-10": 138,
       "2026-02-09": 76,
-      "2026-02-08": 77
+      "2026-02-08": 35
     }
   },
   {
@@ -255,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/foync.xx.kg.ico",
     "slug": "",
     "status": "down",
-    "uptime": "79.00%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "52.19%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "79.00%",
+    "uptime": "79.13%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "75.46%",
+    "uptimeYear": "79.13%",
     "time": 17,
     "timeDay": 9,
     "timeWeek": 12,
@@ -292,7 +292,7 @@
       "2026-02-11": 572,
       "2026-02-10": 138,
       "2026-02-09": 76,
-      "2026-02-08": 77
+      "2026-02-08": 35
     }
   }
 ]

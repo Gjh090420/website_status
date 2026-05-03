@@ -1,7 +1,7 @@
 url: https://wttr.in/Shanghai?format=3
-status: up
-code: 200
-responseTime: 527
-lastUpdated: 2026-05-02T23:51:50.209Z
+status: down
+code: 500
+responseTime: 501
+lastUpdated: 2026-05-03T20:00:17.765Z
 startTime: 2026-01-31T14:57:00.082Z
 generator: Upptime <https://github.com/upptime/upptime>
